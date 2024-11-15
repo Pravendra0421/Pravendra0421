@@ -1,5 +1,30 @@
 ![logo](https://github.com/Pravendra0421/Pravendra0421/blob/main/bussiness_id.jpg)
-<h1 align="center">Hi 👋, I'm Pravendra Jain</h1>
+<h1 align="center" style="
+        font-family: Arial, sans-serif; 
+        font-size: 24px; 
+        display: inline-block; 
+        overflow: hidden; 
+        white-space: nowrap; 
+        border-right: 2px solid black; 
+        animation: typing 4s steps(22) 1s forwards, blink 0.7s step-end infinite;">
+        Hi 👋, I'm Pravendra Jain
+    </h1>
+    <style>
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink {
+            50% {
+                border-color: transparent;
+            }
+        }
+    </style>
 <h3 align="center">Full Stack Developer | Expert in MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravendra0421&label=Profile%20views&color=0e75b6&style=flat" alt="pravendra0421" /> </p>
