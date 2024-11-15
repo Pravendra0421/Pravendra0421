@@ -1,4 +1,3 @@
-![logo](https://github.com/Pravendra0421/Pravendra0421/blob/main/bussiness_id.jpg)
 <h1 align="center" style="
         font-family: Arial, sans-serif; 
         font-size: 24px; 
