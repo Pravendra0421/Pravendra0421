@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **EZTECH**
 
-- 🌱 I’m currently learning **Nextjs,Machine learning**
+- 🌱 I’m currently learning **Nextjs,Dart,Flutter**
 
 - EX-Intern at **YP silon it solution pvt ltd**
 
